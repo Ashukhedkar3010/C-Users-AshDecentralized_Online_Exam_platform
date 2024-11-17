@@ -1,6 +1,4 @@
 
-# Decentralized Online Exam Platform Using Blockchain
-
 ## Introduction
 
 The Decentralized Online Exam Platform is a secure and transparent system built using blockchain technology to administer exams online. The platform allows educational institutions to conduct exams in a fair and tamper-proof environment, leveraging the immutability and transparency of blockchain. It ensures that exam data such as question papers, student responses, and results are securely stored and can be accessed only by authorized participants.

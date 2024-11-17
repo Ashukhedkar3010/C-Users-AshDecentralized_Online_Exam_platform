@@ -1,6 +1,3 @@
-Here's a sample README file for your decentralized online exam platform using blockchain:
-
----
 
 # Decentralized Online Exam Platform Using Blockchain
 

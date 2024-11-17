@@ -26,6 +26,3 @@ Our vision is to revolutionize the traditional online exam system by providing a
 You can access the deployed version of the project at:  
 **[0xaa908aecd33bb1a2481f0ef39a1a0664b4666a6541345a719d009707b2135201]**
 
----
-
-Feel free to modify the README as necessary based on your project’s specific features and goals!

@@ -1,0 +1,15 @@
+[package]
+name = "decntralized_online_exam_platform"
+version = "1.0.0"
+authors = []
+
+[addresses]
+DecntralizedOnlinExamPlatform = '0xaa908aecd33bb1a2481f0ef39a1a0664b4666a6541345a719d009707b2135201'
+
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]
